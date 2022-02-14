@@ -1,0 +1,29 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "idf.portWin": "COM4",
+  "files.associations": {
+    "*.inc": "c",
+    "stdlib.h": "c",
+    "string.h": "c",
+    "semphr.h": "c",
+    "task.h": "c",
+    "esp_adc_cal.h": "c",
+    "sdkconfig.h": "c",
+    "codecvt": "c",
+    "xlocale": "c",
+    "esp_tls.h": "c",
+    "array": "c",
+    "vector": "c",
+    "xstring": "c",
+    "xutility": "c"
+  },
+  "git.ignoreLimitWarning": true
+}
